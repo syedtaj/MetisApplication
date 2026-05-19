@@ -1,2 +1,2 @@
-# MetisApplication CSS feature
+# First Application
 Internal Site
