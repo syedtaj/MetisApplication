@@ -1,2 +1,2 @@
-# MetisApplication CSS feature merged
+# MetisApplication CSS feature
 Internal Site
